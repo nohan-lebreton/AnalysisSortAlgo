@@ -1,0 +1,11 @@
+git status
+
+git add fichier.txt
+
+git push 
+
+git commit -m ""
+
+git pull
+
+git rm
